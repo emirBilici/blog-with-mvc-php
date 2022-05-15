@@ -1,0 +1,17 @@
+{
+  "create": 1,
+  "user": {
+    "firstName": "Emir Furkan",
+    "lastName": "Bilici",
+    "username": "efurkanbilici",
+    "email": "efurkanbilici@gmail.com",
+    "password": "123emir123",
+    "birthday": "2005-04-08",
+    "question": {
+      "number": 0,
+      "answer": "This is my answer.."
+    },
+    "userType": 1,
+    "verified": 1
+  }
+}
